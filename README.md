@@ -10,7 +10,7 @@ description: 'In terms of Skynet resources, we''ve got some things.'
 
 ## Text
 
-Already writing a paragraphs. Some real changes.
+Already writing a paragraphs. Some real changes. No, THESE are real changes.
 
 {% tabs %}
 {% tab title="First Tab" %}
@@ -18,7 +18,7 @@ Already writing a paragraphs. Some real changes.
 {% endtab %}
 
 {% tab title="Second Tab" %}
-Another Change
+Another Change. I love apples!
 {% endtab %}
 
 {% tab title="" %}
