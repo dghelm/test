@@ -8,22 +8,6 @@ description: 'In terms of Skynet resources, we''ve got some things.'
 
 {% page-ref page="what-we-propose.md" %}
 
-Already writing a paragraphs. Some real changes. No, THESE are real changes.
-
-{% tabs %}
-{% tab title="First Tab" %}
-
-{% endtab %}
-
-{% tab title="Second Tab" %}
-Another Change. I love apples!
-{% endtab %}
-
-{% tab title="" %}
-
-{% endtab %}
-{% endtabs %}
-
 ## Portal Landing Pages
 
 The landing page bundled in our portal code is also the best "skynet homepage" since it's what users see when they visit [siasky.net](https://siasky.net).
