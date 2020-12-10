@@ -8,8 +8,6 @@ description: 'In terms of Skynet resources, we''ve got some things.'
 
 {% page-ref page="what-we-propose.md" %}
 
-## Text
-
 Already writing a paragraphs. Some real changes. No, THESE are real changes.
 
 {% tabs %}
