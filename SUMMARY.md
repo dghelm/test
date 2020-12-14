@@ -3,4 +3,5 @@
 * [What We've Got](README.md)
 * [What We Propose](what-we-propose.md)
 * [Skynet Docs Currently](untitled.md)
+* [Inspos](inspos.md)
 
