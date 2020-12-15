@@ -7,5 +7,5 @@
 ## Documentation Workspace <a id="new-documentation-documentation"></a>
 
 * [Outline for General Documentation](new-documentation-documentation/outline-for-general-documentation.md)
-* [Inspos](new-documentation-documentation/inspos.md)
+* [Inspos & Notes](new-documentation-documentation/inspos.md)
 
