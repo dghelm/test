@@ -50,9 +50,13 @@ Skynet really comes to life as developers build applications that not only use s
 
 ## Why does it matter?
 
+{% hint style="info" %}
+This may be a good place to kick folks to David's getting started handbook?
+{% endhint %}
+
 ## Developing on Skynet
 
-Brief description of SDKs, link to the getting started guide and perhaps the SDK docs.
+Brief description of architecture, the SDKs, and a link to the "getting started guide" and perhaps the SDK docs.
 
 ## Running a Portal
 
