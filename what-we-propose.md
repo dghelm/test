@@ -40,7 +40,7 @@ To play with GitBook's functionality and try out internal documentation, I start
 ## Siasky.net Portal Page
 
 * Questions from above still true.
-* adjust branding appropriately.
+* Adjust branding appropriately.
 * Upload, and skylink box still great, but make sure "additional info" or user pricing or general docs are also present somehow.
 * We may end up needing to make a distinct "General Docs" for the portal, which GitBook makes easy.
 
